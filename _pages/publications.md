@@ -28,7 +28,6 @@ author_profile: true
 
 ---
 title: "Preperit and Ongoing Work"
-permalink: /Preperit and Ongoing Work/
 author_profile: true
 ---
 <br>
