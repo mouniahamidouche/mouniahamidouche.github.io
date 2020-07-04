@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://www.overleaf.com/read/zbrsgknnqbzt)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://mouniahamidouche.github.io/files/mounia-cv.pdf)
 
 <!-- <embed src="http://mouniahamidouche.github.io/files/mounia-cv.pdf" width="650" height="1800" type='application/pdf'> -->
