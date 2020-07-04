@@ -4,12 +4,8 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-* **IEEE Special Scholarship** (Top 2 students in School of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2017
-* **Best Paper Award Honorable Mention of SIGIR 2017 ([Link](http://sigir.org/sigir2017/program/awards/))**. August 9, Tokyo, Japan. 2017.
-* **Microsoft Azure Research Award**, Carnegie Mellon University. 2017.
-* **Scholarship of Excellent Undergraduates** (Top 2 students in school of Electronic Information and Electrical Engineering), Shanghai Jiao Tong University. 2016-2017
-* **National Scholarship** (Top 3 students in Computer Science Department), Shanghai Jiao Tong University. 2015-2016.
-* **Overall GPA Ranking Top 3 out of 151 ([Link](http://lantaoyu.com/files/ranking.pdf))** (Sophomore GPA Ranking 1st/151), Department of Computer Science, Shanghai Jiao Tong University. 2014-2017.
-* **Zhiyuan Honors Scholarship** (Top 5%, Twice), Shanghai Jiao Tong University. 2015 & 2016.
-* **Yuan-Ze Scholarship** (Top 2%), Zhiyuan College, Shanghai Jiao Tong University. 2014-2015.
-* **First Prize** in China Undergraduate Mathematical Contest in Modeling, Shanghai Division. 2015
+* ** Postdoctoral fellowship ** (Carnot Télécom and Société Numérique Fellowship), IMT Atlantique. 2020
+* **German Academic Exchange Service (DAAD) Fellowship**, awarded a DAAD fellowship to visit Erlangen-Nuremberg university during my  Ph.D, 2018
+* **Paris-Saclay Scholarship (IDEX Paris-Saclay)** (awarded the international Masters scholarship for academic excellence from Paris-Saclay University) 2016
+* **Honorary Degrees Distinction for University Curriculum** (Top 3 students in Computer Science Department), USTHB University. 2015.
+
