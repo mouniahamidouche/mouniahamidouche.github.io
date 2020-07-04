@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://mouniahamidouche.github.io/files/mounia.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://mouniahamidouche.github.io/files/mounia1.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
