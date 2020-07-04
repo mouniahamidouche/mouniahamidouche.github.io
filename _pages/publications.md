@@ -28,15 +28,6 @@ author_profile: true
 <i>28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications,  Dec. 2017, Montreal, Canada</i>.
 
 
----
-title: "Preperit and Ongoing Work"
-author_profile: true
----
-<br>
-<b>[Spectral Dimension and Clustering in Random Geometric Graphs](http://mouniahamidouche.github.io/publications/fEBM)</b> <br> 
-</b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>The 8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>. 
-
 
 
 
