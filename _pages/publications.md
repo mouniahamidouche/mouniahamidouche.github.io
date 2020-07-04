@@ -4,9 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[Few-shot Image Classification via Mean-shift and low-pass filter](http://lantaoyu.com/publications/MOPO)</b> <br> 
-</b>Mounia Hamidouche</b>, Bastien Pasdeloup , Lucas Drumetz, Vincent Gripon.
-
 <b>[Spectral Dimension and Clustering in Random Geometric Graphs](http://lantaoyu.com/publications/fEBM)</b> <br> 
 </b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
 <i>The 8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>. 
