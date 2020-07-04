@@ -2,12 +2,14 @@
 title: "Variational Bottleneck Domain Adaptation"
 collection: publications
 permalink: /publications/VBDA
-venue: "The 24th European Conference on Artificial Intelligence (ECAI 2020)"
+venue: "8th International Conference on Complex Networks and their Applications, Dec. 2019, Lisbon, Portugal."
 date: 2019-11-20
-citation: 'Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu. <b>ECAI 2020.</b>'
+citation: ' Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>'
 ---
 
-[[PDF]](https://arxiv.org/pdf/1911.09310.pdf)
+
+
+[[PDF]](https://arxiv.org/pdf/1910.08869.pdf)
 
 ## Abstract
-Domain adaptation aims to leverage the supervision signal of source domain to obtain an accurate model for target domain, where the labels are not available. To leverage and adapt the label information from source domain, most existing methods employ a feature extracting function and match the marginal distributions of source and target domains in a shared feature space. In this paper, from the perspective of information theory, we show that representation matching is actually an insufficient constraint on the feature space for obtaining a model with good generalization performance in target domain. We then propose variational bottleneck domain adaptation (VBDA), a new domain adaptation method which improves feature transferability by explicitly enforcing the feature extractor to ignore the task-irrelevant factors and focus on the information that is essential to the task of interest for both source and target domains. Extensive experimental results demonstrate that VBDA significantly outperforms state-of-the-art methods across three domain adaptation benchmark datasets.
+Network geometries are typically characterized by having a finite spectral dimension (SD), $d_{s}$ that characterizes the return time distribution of a random walk on a graph. The main purpose of this work is to determine the SD of a variety of random graphs called random geometric graphs (RGGs) in the thermodynamic regime, in which the average vertex degree is constant. The spectral dimension depends on the eigenvalue density (ED) of the RGG normalized Laplacian in the neighborhood of the minimum eigenvalues. In fact, the behavior of the ED in such a neighborhood characterizes the random walk. Therefore, we first provide an analytical approximation for the eigenvalues of the regularized normalized Laplacian matrix of RGGs in the thermodynamic regime. Then, we show that the smallest non zero eigenvalue converges to zero in the large graph limit. Based on the analytical expression of the eigenvalues, we show that the eigenvalue distribution in a neighborhood of the minimum value follows a power-law tail. Using this result, we find that the SD of RGGs is approximated by the space dimension $d$ in the thermodynamic regime.
