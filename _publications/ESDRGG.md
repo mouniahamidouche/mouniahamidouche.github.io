@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/VBDA
 venue: "8th International Conference on Complex Networks and their Applications, Dec. 2019, Lisbon, Portugal."
 date: 2019
-citation: ' Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>'
+citation: ' Konstantin Avrachenkov,  Laura Cottatellucci, </b>Mounia Hamidouche</b>'
 ---
 
 

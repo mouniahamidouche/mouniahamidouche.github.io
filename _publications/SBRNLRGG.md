@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/MetaIRL
 venue: "4th Graph Signal Processing Workshop, Jun. 2019, Minneapolis, USA."
 date: 2018-4-12
-citation: ' <b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
+citation: '</b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---
 
 [[PDF]](https://mouniahamidouche.github.io/files/SBRNLRGG.pdf)

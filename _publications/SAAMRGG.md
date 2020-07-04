@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/IABF
 venue: "57th Annual Allerton Conference on Communication, Control, and Computing, Sep. 2019, Illinois, USA. "
 date: 2019
-citation: ' <b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
+citation: '</b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---
 
 [[PDF]](https://mouniahamidouche.github.io/files/SAAMRGG.pdf)
