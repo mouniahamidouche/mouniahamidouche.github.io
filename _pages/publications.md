@@ -12,15 +12,15 @@ author_profile: true
 
 <b>[On the Normalized Laplacian Spectra of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ONLSRGG)</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>Journal of theoretical probability</i>.
+<i>Journal of theoretical probability, 2019</i>.
 
 <b>[Spectral Analysis of the Adjacency Matrix of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/SAAMRGG)</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>57th Annual Allerton Conference on Communication, Control, and Computing</i>.
+<i>57th Annual Allerton Conference on Communication, Control, and Computing, Sep. 2019, Illinois, USA</i>.
 
 <b>[Spectral Bounds of the Regularized Normalized Laplacian for Random Geometric Graphs](http://mouniahamidouche.github.io/publications/SBRNLRGG)</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>4th Graph Signal Processing Workshop</i>.
+<i>4th Graph Signal Processing Workshop, Jun. 2019, Minneapolis, USA</i>.
 
 
 <b>[Downlink performance of dense antenna deployment: To distribute or concentrate?](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
