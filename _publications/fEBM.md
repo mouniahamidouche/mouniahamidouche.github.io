@@ -7,7 +7,7 @@ date: 2020-3-9
 citation: '<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
 <i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.'
 ---
-[[PDF]](https://arxiv.org/pdf/2003.03463.pdf)
+[[PDF]](https://mouniahamidouche.github.io/files/DPDADTDC.pdf)
 
 
 ## Abstract
