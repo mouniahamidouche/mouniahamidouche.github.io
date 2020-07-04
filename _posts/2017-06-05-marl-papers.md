@@ -12,7 +12,7 @@ Multi-Agent Reinforcement Learning (MARL) is a very interesting research area, w
 
 This is a collection of research and review papers of multi-agent reinforcement learning (MARL). The Papers are sorted by time. Any suggestions and pull requests are welcome. 
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Lantao Yu](https://lantaoyu.github.io/) (Email: lantaoyu [AT] hotmail.com).
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Mounia Hamidouche](https://mouniahamidouche.github.io/) (Email: mounia.hamidouche [AT] imt-atlantique.fr).
 
 ## Tutorial and Books
 * [Multiagent Reinforcement Learning](http://www.ecmlpkdd2013.org/wp-content/uploads/2013/09/Multiagent-Reinforcement-Learning.pdf) by Daan Bloembergen, Daniel Hennes, Michael Kaisers, Peter Vrancx. ECML, 2013.
