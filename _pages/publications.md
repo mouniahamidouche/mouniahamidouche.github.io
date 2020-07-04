@@ -24,8 +24,6 @@ author_profile: true
 
 
 
-
-
 ---
 title: "Preperit and Ongoing Work"
 author_profile: true
