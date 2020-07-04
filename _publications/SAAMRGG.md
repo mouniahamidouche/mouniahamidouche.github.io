@@ -1,13 +1,13 @@
 ---
-title: "Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip"
+title: "Spectral Analysis of the Adjacency Matrix of Random Geometric Graphs"
 collection: publications
 permalink: /publications/IABF
-venue: "The 34th AAAI Conference on Artificial Intelligence (AAAI 2020)"
-date: 2019-11-20
-citation: 'Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu. <i>AAAI 2020.</i>'
+venue: "57th Annual Allerton Conference on Communication, Control, and Computing, Sep. 2019, Illinois, USA. "
+date: 2019
+citation: ' <b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---
 
 [[PDF]](https://mouniahamidouche.github.io/files/SAAMRGG.pdf)
 
 ## Abstract
-Although Shannon theory states that it is asymptotically optimal to separate the source and channel coding as two independent processes, in many practical communication scenarios this decomposition is limited by the finite bit-length and computational power for decoding. Recently, neural joint source-channel coding (NECST) is proposed to sidestep this problem. While it leverages the advancements of amortized inference and deep learning to improve the encoding and decoding process, it still cannot always achieve compelling results in terms of  compression and error correction performance due to the limited robustness of its learned coding networks. In this paper, motivated by the inherent connections between neural joint source-channel coding and discrete representation learning, we propose a novel regularization method called Infomax Adversarial-Bit-Flip (IABF) to improve the stability and robustness of the neural joint source-channel coding scheme. More specifically, on the encoder side, we propose to explicitly maximize the mutual information between the codeword and data; while on the decoder side, the amortized reconstruction is regularized within an adversarial framework. Extensive experiments conducted on various real-world datasets evidence that our IABF can achieve state-of-the-art performances on both compression and error correction benchmarks and outperform the baselines by a significant margin. 
+In this article, we analyze the limiting eigen- value distribution (LED) of random geometric graphs (RGGs). The RGG is constructed by uniformly distribut- ing n nodes on the d-dimensional torus $T^d ≡ [0, 1]^d$ and connecting two nodes if their $l_p-$distance, $p \in [1, \infty]$ is at most $r_n$. In particular, we study the LED of the adjacency matrix of RGGs in the connectivity regime, in which the average vertex degree scales as log (n) or faster, i.e., $\Omega(log(n))$. In the connectivity regime and under some conditions on the radius $r_n$, we show that the LED of the adjacency matrix of RGGs converges to the LED of the adjacency matrix of a deterministic geometric graph (DGG) with nodes in a grid as n goes to infinity. Then, for n finite, we use the structure of the DGG to approximate the eigenvalues of the adjacency matrix of the RGG and provide an upper bound for the approximation error.
