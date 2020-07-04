@@ -6,7 +6,8 @@ venue: "The 33rd Conference on Neural Information Processing Systems (NeurIPS 20
 date: 2018-4-12
 citation: '<b>Lantao Yu</b>*, Tianhe Yu* (equal contribution), Chelsea Finn, Stefano Ermon. <i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.'
 ---
-[[PDF]](http://lantaoyu.com/files/SBRNLRGG.pdf)
+
+[[PDF]](https://mouniahamidouche.github.io/files/SBRNLRGG.pdf)
 
 
 ## Abstract
