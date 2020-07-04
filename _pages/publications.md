@@ -26,4 +26,20 @@ author_profile: true
 
 
 
+
+
+
+---
+title: "Preperit and Ongoing Work"
+permalink: /Preperit and Ongoing Work/
+author_profile: true
+---
+<br>
+<b>[Spectral Dimension and Clustering in Random Geometric Graphs](http://lantaoyu.com/publications/fEBM)</b> <br> 
+</b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
+<i>The 8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>. 
+
+
+
+
 \* denotes equal contribution
