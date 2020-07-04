@@ -11,4 +11,4 @@ redirect_from:
 
 [Click to View My Up-to-date Curriculum Vitae [PDF]](http://mouniahamidouche.github.io/files/mounia-cv.pdf)
 
-<!-- <embed src="http://mouniahamidouche.github.io/files/mounia-cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://mouniahamidouche.github.io/blob/master/files/mounia-cv.pdf" width="650" height="1800" type='application/pdf'> -->
