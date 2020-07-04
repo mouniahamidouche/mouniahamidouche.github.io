@@ -4,7 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[MOPO: Model-based Offline Policy Optimization](http://mouniahamidouche.github.io/publications/MOPO)</b> <br> 
+Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
+<i>ArXiv 2020</i>.
 
+
+<br>
 <b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
  Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>.
 <i>The 8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>.
