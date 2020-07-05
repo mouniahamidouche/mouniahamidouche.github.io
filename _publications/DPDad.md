@@ -3,7 +3,7 @@ title: "Downlink performance of dense antenna deployment: To distribute or conce
 collection: publications
 permalink: /publications/fEBM
 venue: "28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications, Oct. 2017, Montreal, Canada."
-date: 2017
+date: 2017-6-1
 citation: '</b>Mounia Hamidouche</b>, Ejder Bastug, Jihong Park, Laura Cottatellucci, Merouane Debbah'
 ---
 [[PDF]](https://mouniahamidouche.github.io/files/DPDADTDC.pdf)
