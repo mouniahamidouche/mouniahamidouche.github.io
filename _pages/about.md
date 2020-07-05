@@ -24,11 +24,13 @@ redirect_from:
 
 # Academic Services
 
-* Reviewer for : IEEE International Symposium on Personal, Indoor and Mobile Radio Communications.
+ Reviewer for :
 
-* Reviewer for  IEEE International Workshop on Signal Processing Advances in Wireless Communications.
+* IEEE International Symposium on Personal, Indoor and Mobile Radio Communications.
 
-* Reviewer for : IEEE Transactions on Wireless Communications.
+* IEEE International Workshop on Signal Processing Advances in Wireless Communications.
+
+* IEEE Transactions on Wireless Communications.
 
 
 
