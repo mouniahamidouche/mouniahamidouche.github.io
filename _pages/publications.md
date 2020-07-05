@@ -31,7 +31,7 @@ author_profile: true
 
   
 
-<b>Few-shot Image Classification via Mean-shift and low-pass filter</b><br> 
+<b>Few-shot Image Classification via Mean-shift and Graph Filter</b><br> 
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
 <i>To be submitted</i>.
 
