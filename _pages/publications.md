@@ -52,4 +52,4 @@ Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, L
 
 
 
-\* denotes equal contribution.
+\* The authors are listed in the alphabetical order.
