@@ -17,7 +17,7 @@ redirect_from:
 
 * My recent research works mostly aims to develop theoretical tools based on graphs to address the problems of interpretability / understanding / robustness of deep neural networks in the field of computer vision. In particular, I am primarily interested in developing novel techniques that lie at the intersection of graph signal processing and machine learning and applying them to study questions on the decision making from deep neural networks in the case of few-shot learning.
 
- * Prior to that, I obtained a PhD in [Science and Technology in Information and Communication (STIC)](http://edstic.i3s.unice.fr/en/node/68) at [EURECOM](http://www.eurecom.fr/fr), advised by Dr. [konstantin avrachenkov](https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html) and Prof. [Laura Cottatellucci](http://www.eurecom.fr/fr/people/cottatellucci-laura). In 2019, I was a visiting scholar at [Friedrich-Alexander-Universität (FAU)](https://www.fau.eu).
+ * Prior to that, I obtained a Ph.D in [Science and Technology in Information and Communication (STIC)](http://edstic.i3s.unice.fr/en/node/68) at [EURECOM](http://www.eurecom.fr/fr), advised by Dr. [konstantin avrachenkov](https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html) and Prof. [Laura Cottatellucci](http://www.eurecom.fr/fr/people/cottatellucci-laura). In 2019, I was a visiting scholar at [Friedrich-Alexander-Universität (FAU)](https://www.fau.eu).
  
 
 * My Ph.D works focus on the use of techniques from harmonic analysis and probability theory for the study of large random graphs. 
