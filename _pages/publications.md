@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 <b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
- Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>.
+ Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche\*</b>.
 <i>8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>.
 
 <b>[On the Normalized Laplacian Spectra of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ONLSRGG)</b> <br> 
