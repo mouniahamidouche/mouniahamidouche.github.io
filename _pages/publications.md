@@ -29,21 +29,27 @@ author_profile: true
 
 # Preperit and Ongoing Work
 
-<b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
- Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche\*</b>.
-<i>8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>.
+   
+ 
 
-<b>[On the Normalized Laplacian Spectra of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ONLSRGG)</b> <br> 
-<b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>Journal of theoretical probability, 2019</i>.
+ 
+4)    \textbf{M. Hamidouche}, L. Cottatellucci and K. Avrachenkov  “Spectral Analysis of Random Geometric Graph”,  in \textit{preparation}.}
 
-<b>[Spectral Analysis of the Adjacency Matrix of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/SAAMRGG)</b> <br> 
-<b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>57th Annual Allerton Conference on Communication, Control, and Computing, Sep. 2019, Illinois, USA</i>.
+<b>Few-shot Image Classification via Mean-shift and low-pass filter</b><br> 
+ <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
+<i>To be submitted</i>.
 
-<b>[Spectral Bounds of the Regularized Normalized Laplacian for Random Geometric Graphs](http://mouniahamidouche.github.io/publications/SBRNLRGG)</b> <br> 
+<b>[On the Normalized Laplacian Spectra of Random Geometric Graphs]</b> <br> 
+Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
+<i>In preparation</i>.
+
+<b>[Spectral Analysis of Random Geometric Graph]</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>4th Graph Signal Processing Workshop, Jun. 2019, Minneapolis, USA</i>.
+<i>To be submitted</i>.
+
+<b>[Clustering in Geometric Block Model]</b> <br> 
+<b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
+<i>In preparation</i>.
 
 
 
