@@ -2,7 +2,7 @@
 title: "Eigenvalues and Spectral Dimension of Random Geometric Graphs in Thermodynamic Regime"
 collection: publications
 permalink: /publications/ESDRGG
-venue: "the 8th International Conference on Complex Networks and their Applications, Lisbon, Portugal."
+venue: "the 8th International Conference on Complex Networks and their Applications, Lisbon, Portugal"
 date: 2019-12-1
 citation: 'Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>'
 ---
