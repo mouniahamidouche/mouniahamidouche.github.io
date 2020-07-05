@@ -27,11 +27,11 @@ author_profile: true
 <b> Mounia Hamidouche</b>, Ejder Bastug, Jihong Park, Laura Cottatellucci, Merouane Debbah.
 <i>28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications,  Dec. 2017, Montreal, Canada</i>.
 
----
-title: "Preperit and Ongoing Work"
-permalink: /Preperit and Ongoing Work/
-author_profile: true
----
+
+* **Preperit and Ongoing Work**
+
+
+
 
 
 
