@@ -32,7 +32,7 @@ author_profile: true
   
 
 <b>Few-shot Image Classification via Mean-shift and Graph Filter</b><br> 
- <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
+ <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>To be submitted</i>.
 
 <b>Graphs as Tools to Improve Deep Learning Methods</b>, Book Chapter<br>
@@ -50,9 +50,9 @@ Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, L
 
 # Ph.D Thesis and Slides 
 
-* **[Thesis manuscript](https://mouniahamidouche.github.io/files/thesis.pdf)**, 29 May, 2020,  EURECOM, Sophia Antipolis.
+* **[Thesis manuscript](https://mouniahamidouche.github.io/files/thesis.pdf)**, May 29, 2020,  EURECOM, Sophia Antipolis.
 
-* **[Thesis slides](https://mouniahamidouche.github.io/files/slides.pdf)**, 29 May, 2020,  EURECOM, Sophia Antipolis.
+* **[Thesis slides](https://mouniahamidouche.github.io/files/slides.pdf)**, May 29, 2020,  EURECOM, Sophia Antipolis.
 
 
 
