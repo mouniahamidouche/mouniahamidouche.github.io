@@ -23,7 +23,7 @@ author_profile: true
 <i>4th Graph Signal Processing Workshop, Jun. 2019, Minneapolis, USA</i>.
 
 
-<b>[Downlink performance of dense antenna deployment: To distribute or concentrate?](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
+<b>[Downlink performance of dense antenna deployment: To distribute or concentrate?](http://mouniahamidouche.github.io/publications/DPDad)</b> <br> 
 <b> Mounia Hamidouche</b>, Ejder Bastug, Jihong Park, Laura Cottatellucci, Merouane Debbah.
 <i>28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications,  Dec. 2017, Montreal, Canada</i>.
 
