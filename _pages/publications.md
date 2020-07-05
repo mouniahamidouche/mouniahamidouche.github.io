@@ -39,7 +39,7 @@ author_profile: true
 Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>In preparation</i>.
 
-<b>Spectral Analysis of Random Geometric Graph</b> <br>, Book Chapter, 
+<b>Spectral Analysis of Random Geometric Graph</b>, Book Chapter<br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
 <i>To be submitted</i>.
 
