@@ -19,6 +19,17 @@ redirect_from:
 * I received my Master’s Degree from the [Paris-Saclay University](https://www.universite-paris-saclay.fr). 
 
 # Academic Services
-* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020, NeurIPS 2020.
 
-I received my Master’s Degree from the University of Science and Technology Houari Boumediene and Paris-Saclay University, respectively. In 2019, I was a visiting scholar at Friedrich-Alexander-Universität (FAU).
+* Reviewer for :  
+
+*  IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC).
+
+* IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)
+
+*  IEEE Transactions on Wireless Communications (IEEE TWC)
+
+
+
+
+
+
