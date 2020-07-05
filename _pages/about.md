@@ -13,13 +13,14 @@ redirect_from:
 </p>
 
 # About Me 
-* I am a post-doctoral researcher at [IMT-Atlantique](https://www.imt-atlantique.fr/fr), working with Prof. [Vincent Gripon](http://www.vincent-gripon.com), [Lucas Dumetz](https://www.imt-atlantique.fr/en/person/lucas-drumetz) and [Bastien Pasdeloup](https://scholar.google.fr/citations?user=dKOgoG4AAAAJ&hl=en). [[Curriculum Vitae](http://mouniahamidouche.github.io/files/mounia_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=mMEdVfoAAAAJ&hl=en)]
+* I am a post-doctoral researcher at [IMT-Atlantique](https://www.imt-atlantique.fr/fr), working with Prof. [Vincent Gripon](http://www.vincent-gripon.com), Prof. [Lucas Dumetz](https://www.imt-atlantique.fr/en/person/lucas-drumetz) and Prof. [Bastien Pasdeloup](https://scholar.google.fr/citations?user=dKOgoG4AAAAJ&hl=en) on few-shot learning, a type of machine learning problem, where we have only a limited number of data with supervised information. [[Curriculum Vitae](http://mouniahamidouche.github.io/files/mounia_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=mMEdVfoAAAAJ&hl=en)]
 
- * I obtained a PhD in [Science and Technology in Information and Communication (STIC)](http://edstic.i3s.unice.fr/en/node/68) at [EURECOM](http://www.eurecom.fr/fr), advised by Dr. [konstantin avrachenkov](https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html) and Prof. [Laura Cottatellucci](http://www.eurecom.fr/fr/people/cottatellucci-laura). In 2019, I was a visiting scholar at [Friedrich-Alexander-Universität (FAU)](https://www.fau.eu).
+* My recent research works mostly aims to develop theoretical tools based on graphs to address the problems of interpretability / understanding / robustness of deep neural networks in the field of computer vision. In particular, I am primarily interested in developing novel techniques that lie at the intersection of graph signal processing and machine learning and applying them to study questions on the decision making from deep neural networks in the case of few-shot learning.
+
+ * Prior to that, I obtained a PhD in [Science and Technology in Information and Communication (STIC)](http://edstic.i3s.unice.fr/en/node/68) at [EURECOM](http://www.eurecom.fr/fr), advised by Dr. [konstantin avrachenkov](https://www-sop.inria.fr/members/Konstantin.Avratchenkov/me.html) and Prof. [Laura Cottatellucci](http://www.eurecom.fr/fr/people/cottatellucci-laura). In 2019, I was a visiting scholar at [Friedrich-Alexander-Universität (FAU)](https://www.fau.eu).
  
-* The construction of a meaningful graph topology plays a crucial role in the success of many representations and algorithms for handling structured data.   For that, I am primarily interested in developing novel techniques that lie at the intersection of graph signal processing and machine learning and applying them to study questions on the  decision making from deep neural networks.
 
-* My Ph.D works focus on the use of techniques from harmonic analysis and probability theory for the study of large random graphs, especially random geometric graph. Then, my recent research works mostly aims to develop theoretical tools based on graphs to address the problems of interpretability / understanding / robustness of deep neural networks in the field of computer vision.
+* My Ph.D works focus on the use of techniques from harmonic analysis and probability theory for the study of large random graphs. 
 
 
 * I received my Master’s Degree from [Paris-Saclay University](https://www.universite-paris-saclay.fr). 
