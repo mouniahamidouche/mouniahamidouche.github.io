@@ -20,13 +20,12 @@ redirect_from:
 
 # Academic Services
 
-* Reviewer for :  
+ 
+* Reviewer for : IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC).
 
-*  IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (IEEE PIMRC).
+* Reviewer for  IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC).
 
-* IEEE International Workshop on Signal Processing Advances in Wireless Communications (IEEE SPAWC)
-
-*  IEEE Transactions on Wireless Communications (IEEE TWC)
+* Reviewer for : IEEE Transactions on Wireless Communications (IEEE TWC).
 
 
 
