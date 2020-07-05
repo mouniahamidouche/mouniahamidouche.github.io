@@ -48,6 +48,13 @@ Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, L
 <i>In preparation</i>.
 
 
+# Ph.D Thesis and Slides 
+
+* **[Thesis manuscript](https://mouniahamidouche.github.io/files/thesis.pdf)**, 29 May, 2020,  EURECOM, Sophia Antipolis.
+
+* **[Thesis slides](https://mouniahamidouche.github.io/files/slides.pdf)**, 29 May, 2020,  EURECOM, Sophia Antipolis.
+
+
 
 
 
