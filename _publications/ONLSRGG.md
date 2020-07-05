@@ -2,7 +2,7 @@
 title: "On the Normalized Laplacian Spectra of Random Geometric Graphs"
 collection: publications
 permalink: /publications/ONLSRGG
-venue: "Journal of theoretical probability, second round review, 2019."
+venue: "Journal of theoretical probability, second round review"
 date: 2019-6-1
 citation: '<b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---

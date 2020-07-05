@@ -2,8 +2,8 @@
 title: "Spectral Analysis of the Adjacency Matrix of Random Geometric Graphs"
 collection: publications
 permalink: /publications/SAAMRGG
-venue: "57th Annual Allerton Conference on Communication, Control, and Computing, Sep. 2019, Illinois, USA. "
-date: 2019-6-1
+venue: "the 57th Annual Allerton Conference on Communication, Control, and Computing, Illinois, USA"
+date: 2019-9-1
 citation: '<b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---
 

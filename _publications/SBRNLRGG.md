@@ -2,8 +2,8 @@
 title: "Spectral bounds of the regularized normalized Laplacian for random geometric graphs"
 collection: publications
 permalink: /publications/SBRNLRGG
-venue: "4th Graph Signal Processing Workshop, Jun. 2019, Minneapolis, USA."
-date: 2018-4-12
+venue: "the 4th Graph Signal Processing Workshop, Minneapolis, USA"
+date: 2019-6-1
 citation: '<b>Mounia Hamidouche</b>,  Laura Cottatellucci, Konstantin Avrachenkov'
 ---
 
