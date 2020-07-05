@@ -4,9 +4,9 @@ collection: publications
 permalink: /publications/fEBM
 venue: "28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications, Oct. 2017, Montreal, Canada."
 date: 2017-6-1
-citation: '</b>Mounia Hamidouche</b>, Ejder Bastug, Jihong Park, Laura Cottatellucci, Merouane Debbah'
+citation: '<b>Mounia Hamidouche</b>, Ejder Bastug, Jihong Park, Laura Cottatellucci, Merouane Debbah'
 ---
-[[PDF]](https://mouniahamidouche.github.io/files/DPDADTDC.pdf)
+[[PDF]](https://arxiv.org/pdf/1910.08868)
 
 
 ## Abstract
