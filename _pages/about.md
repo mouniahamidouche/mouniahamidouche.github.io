@@ -23,7 +23,7 @@ redirect_from:
 * My Ph.D works focus on the use of techniques from harmonic analysis and probability theory for the study of large random graphs. 
 
 
-* I received my Master’s Degree from [Paris-Saclay University](https://www.universite-paris-saclay.fr). 
+* I received my Master’s Degree from [Paris-Saclay University](https://www.universite-paris-saclay.fr) in mathematics and its applications, speciality [optimization](https://www.universite-paris-saclay.fr/en/formation/master/mathematics-and-applications/m2-optimization). 
 
 # Academic Services
 
