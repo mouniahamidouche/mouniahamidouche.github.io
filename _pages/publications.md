@@ -29,25 +29,21 @@ author_profile: true
 
 # Preperit and Ongoing Work
 
-   
- 
-
- 
-4)    \textbf{M. Hamidouche}, L. Cottatellucci and K. Avrachenkov  “Spectral Analysis of Random Geometric Graph”,  in \textit{preparation}.}
+  
 
 <b>Few-shot Image Classification via Mean-shift and low-pass filter</b><br> 
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
 <i>To be submitted</i>.
 
-<b>[On the Normalized Laplacian Spectra of Random Geometric Graphs]</b> <br> 
+<b>On the Normalized Laplacian Spectra of Random Geometric Graphs</b> <br> 
 Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>In preparation</i>.
 
-<b>[Spectral Analysis of Random Geometric Graph]</b> <br> 
+<b>Spectral Analysis of Random Geometric Graph</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
 <i>To be submitted</i>.
 
-<b>[Clustering in Geometric Block Model]</b> <br> 
+<b>Clustering in Geometric Block Model</b> <br> 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
 <i>In preparation</i>.
 
@@ -56,4 +52,4 @@ Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, L
 
 
 
-\* denotes equal contribution
+\* denotes equal contribution.
