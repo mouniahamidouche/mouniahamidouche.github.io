@@ -28,8 +28,8 @@ author_profile: true
 <i>28th Annual International Symposium on Personal, Indoor, and Mobile Radio Communications,  Dec. 2017, Montreal, Canada</i>.
 
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=mMEdVfoAAAAJ&hl=en)"
-permalink: /publications/
+title: "Preperit and Ongoing Work"
+permalink: /Preperit and Ongoing Work/
 author_profile: true
 ---
 
