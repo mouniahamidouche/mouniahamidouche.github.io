@@ -3,10 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-http://mouniahamidouche.github.io/files/mounia_cv.pdf
+
 
 <br>
-<b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG.md)</b> <br> 
+<b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
  Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche</b>.
 <i>8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>.
 
