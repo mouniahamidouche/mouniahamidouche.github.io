@@ -35,7 +35,7 @@ author_profile: true
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
 <i>To be submitted</i>.
 
-<b>Graphs as Tools to Improve Deep Learning Methods</b> <br>, Book Chapter,
+<b>Graphs as Tools to Improve Deep Learning Methods</b>, Book Chapter<br>
 Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>In preparation</i>.
 
