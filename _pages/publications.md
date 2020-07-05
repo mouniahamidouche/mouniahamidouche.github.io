@@ -35,11 +35,11 @@ author_profile: true
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz and Vincent Gripon.
 <i>To be submitted</i>.
 
-<b>On the Normalized Laplacian Spectra of Random Geometric Graphs</b> <br> 
+<b>Graphs as Tools to Improve Deep Learning Methods</b> <br>, Book Chapter,
 Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>In preparation</i>.
 
-<b>Spectral Analysis of Random Geometric Graph</b> <br> 
+<b>Spectral Analysis of Random Geometric Graph</b> <br>, Book Chapter, 
 <b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
 <i>To be submitted</i>.
 
