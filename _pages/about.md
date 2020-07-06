@@ -23,7 +23,7 @@ redirect_from:
 * My Ph.D work focused on the use of techniques from harmonic analysis and probability theory for the study of large random graphs. 
 
 
-* I received my Bachlor's and Master’s degree from [USTHB](https://www.usthb.dz/en#slider) and [Paris-Saclay University](https://www.universite-paris-saclay.fr), respectively, both in applied mathematics.
+* I received my Bachlor's and Master’s degrees from [USTHB](https://www.usthb.dz/en#slider) and [Paris-Saclay University](https://www.universite-paris-saclay.fr), respectively, both in applied mathematics.
 
 
 
