@@ -9,6 +9,6 @@ author_profile: true
 
 * **Teaching assistant, University of Erlangen-Nuremberg** - graduate level-  (16 hours)
 <br> **Machine learning course:**
-<br> &nbsp; Linear regression, logistic regression
-<br> &nbsp; Feed-forward neural networks, convolutional neural networks.
+<br> &nbsp; * Linear regression, logistic regression
+<br> &nbsp; * Feed-forward neural networks, convolutional neural networks.
 
