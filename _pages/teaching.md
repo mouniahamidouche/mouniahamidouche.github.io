@@ -8,7 +8,5 @@ author_profile: true
 <br> **Combinatorial optimization with applications to networked systems.**
 
 * **Teaching assistant, University of Erlangen-Nuremberg** - graduate level-  (16 hours)
-<br> **Machine learning course:**
-<br> &nbsp; * Linear regression, logistic regression
-<br> &nbsp; * Feed-forward neural networks, convolutional neural networks.
+<br> **Machine learning course:**  linear regression, logistic regression, feed-forward neural networks, convolutional neural networks.
 
