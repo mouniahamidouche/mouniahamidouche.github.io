@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 # About Me 
-* I am a post-doctoral researcher at [IMT-Atlantique](https://www.imt-atlantique.fr/fr) working with Prof. [Vincent Gripon](http://www.vincent-gripon.com), Prof. [Lucas Dumetz](https://www.imt-atlantique.fr/en/person/lucas-drumetz) and Prof. [Bastien Pasdeloup](https://scholar.google.fr/citations?user=dKOgoG4AAAAJ&hl=en) on few-shot learning, a type of machine learning problem where we have only a limited number of data with supervised information. [[Curriculum Vitae](http://mouniahamidouche.github.io/files/mounia_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=mMEdVfoAAAAJ&hl=en)].
+* I am a post-doctoral researcher at [IMT-Atlantique](https://www.imt-atlantique.fr/fr) working with Professors [Vincent Gripon](http://www.vincent-gripon.com), [Lucas Dumetz](https://www.imt-atlantique.fr/en/person/lucas-drumetz) and [Bastien Pasdeloup](https://scholar.google.fr/citations?user=dKOgoG4AAAAJ&hl=en) on few-shot learning. Few-shot learning refers to the practice of feeding a learning model with a very small amount of training data, contrary to the normal practice of using a large amount of data. [[Curriculum Vitae](http://mouniahamidouche.github.io/files/mounia_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=mMEdVfoAAAAJ&hl=en)].
 
 * My research interest mostly aim to develop theoretical tools based on graph signal processing to address the problems of interpretability / understanding / robustness of deep neural networks for few-shot problems in the field of computer vision.
 
