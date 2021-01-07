@@ -6,6 +6,10 @@ author_profile: true
 
 
 <br>
+<b>[Ranking Deep Learning Generalization using Label Variation in Latent Geometry Graphs](http://mouniahamidouche.github.io/publications/RDLGLV)</b> <br> 
+<b>Carlos  Lassance</b>, Louis Béthune, Myriam Bontonou, Mounia Hamidouche, Vincent Gripon.
+<i>Neural Information Processing Systems (NeurIPS) competition, 2020</i>.
+
 <b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
  Konstantin Avrachenkov,  Laura Cottatellucci, <b>Mounia Hamidouche\*</b>.
 <i>8th International Conference on Complex Networks and their Applications,  Dec. 2019, Lisbon, Portugal</i>.
