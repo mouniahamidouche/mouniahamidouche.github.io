@@ -16,7 +16,7 @@ Carlos Lassance,  Myriam Bontonou, <b>Mounia Hamidouche<b>, Bastien Pasdeloup, L
 <i>IEEE International Conference on Image Processing, 2021</i>.
 
 <b>[Ranking Deep Learning Generalization using Label Variation in Latent Geometry Graphs](http://mouniahamidouche.github.io/publications/RDLGLV)</b> <br> 
-<b>Carlos  Lassance</b>, Louis Béthune, Myriam Bontonou, Mounia Hamidouche, Vincent Gripon.
+Carlos  Lassance, Louis Béthune, Myriam Bontonou, </b>Mounia Hamidouche</b>, Vincent Gripon.
 <i>Neural Information Processing Systems (NeurIPS) competition, 2020</i>.
 
 <b>[Eigenvalues and Spectral Dimension of Random Geometric Graphs](http://mouniahamidouche.github.io/publications/ESDRGG)</b> <br> 
