@@ -7,7 +7,7 @@ author_profile: true
 
 <br> 
 <b>[Graphs as Tools to Improve Deep Learning Methods](http://mouniahamidouche.github.io/publications/bookchapter)</b> <br> 
-Carlos Lassance,  Myriam Bontonou, <b>Mounia Hamidouche<b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
+Carlos Lassance,  Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>Book chapter in Advances in Artificial Intelligence: Reviews', Vol. 2, 2021</i>.
 
 
