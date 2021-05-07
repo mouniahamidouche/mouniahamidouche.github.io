@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 
-<br>
+
 <b>[Graphs as Tools to Improve Deep Learning Methods](http://mouniahamidouche.github.io/publications/bookchapter)</b> <br> 
 Carlos Lassance,  Myriam Bontonou, <b>Mounia Hamidouche<b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>Book chapter in Advances in Artificial Intelligence: Reviews', Vol. 2, 2021</i>.
 
 
 <b>[Improving Classification Accuracy With Graph Filtering](http://mouniahamidouche.github.io/publications/classification)</b> <br> 
-<b>Mounia Hamidouche </b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
+<b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>IEEE International Conference on Image Processing, 2021</i>.
 
 <b>[Ranking Deep Learning Generalization using Label Variation in Latent Geometry Graphs](http://mouniahamidouche.github.io/publications/RDLGLV)</b> <br> 
