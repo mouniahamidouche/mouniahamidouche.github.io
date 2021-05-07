@@ -6,6 +6,10 @@ author_profile: true
 
 
 <br>
+<b>[Improving Classification Accuracy With Graph Filtering](http://mouniahamidouche.github.io/publications/classification)</b> <br> 
+<b>Mounia Hamidouche </b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
+<i>IEEE International Conference on Image Processing, 2021</i>.
+
 <b>[Ranking Deep Learning Generalization using Label Variation in Latent Geometry Graphs](http://mouniahamidouche.github.io/publications/RDLGLV)</b> <br> 
 <b>Carlos  Lassance</b>, Louis Béthune, Myriam Bontonou, Mounia Hamidouche, Vincent Gripon.
 <i>Neural Information Processing Systems (NeurIPS) competition, 2020</i>.
