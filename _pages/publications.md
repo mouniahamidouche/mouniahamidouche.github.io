@@ -44,21 +44,10 @@ Carlos  Lassance, Louis Béthune, Myriam Bontonou, </b>Mounia Hamidouche</b>, Vi
 
   
 
-<b>Few-shot Image Classification via Mean-shift and Graph Filter</b><br> 
+<b>Class Selection for Improving Few-shot classification performance</b><br> 
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>To be submitted</i>.
 
-<b>Graphs as Tools to Improve Deep Learning Methods</b>, Book Chapter<br>
-Carlos Lassance, Myriam Bontonou, <b>Mounia Hamidouche</b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
-<i>In preparation</i>.
-
-<b>Spectral Analysis of Random Geometric Graph</b>, Book Chapter<br> 
-<b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>To be submitted</i>.
-
-<b>Clustering in Geometric Block Model</b> <br> 
-<b>Mounia Hamidouche</b>, Laura Cottatellucci, Konstantin Avrachenkov.
-<i>In preparation</i>.
 
 
 # Ph.D Thesis and Slides 
