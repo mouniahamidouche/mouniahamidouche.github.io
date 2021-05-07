@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-
+<br> 
 <b>[Graphs as Tools to Improve Deep Learning Methods](http://mouniahamidouche.github.io/publications/bookchapter)</b> <br> 
 Carlos Lassance,  Myriam Bontonou, <b>Mounia Hamidouche<b>, Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>Book chapter in Advances in Artificial Intelligence: Reviews', Vol. 2, 2021</i>.
@@ -44,7 +44,7 @@ Carlos  Lassance, Louis Béthune, Myriam Bontonou, </b>Mounia Hamidouche</b>, Vi
 
   
 
-<b>Class Selection for Improving Few-shot classification performance</b><br> 
+<b>Class Selection for Improving Few-shot Classification Performance</b><br> 
  <b>Mounia Hamidouche</b>,  Bastien Pasdeloup, Lucas Drumetz, Vincent Gripon.
 <i>To be submitted</i>.
 
